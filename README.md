@@ -10,6 +10,7 @@ The projects demonstrate a strong foundation in actuarial science, attention to 
 #### Jan Marc Camain
 
 BS Mathematics with specialization in Computer Science
+
 Bulacan State University
 
 :>
