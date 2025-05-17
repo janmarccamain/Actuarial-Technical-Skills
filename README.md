@@ -4,9 +4,11 @@ This repository showcases a range of actuarial technical skills developed throug
 
 The projects demonstrate a strong foundation in actuarial science, attention to detail, and a commitment to data-driven decision making.
 
-##Author
 
-####Jan Marc Camain
+## Author
+
+#### Jan Marc Camain
+
 BS Mathematics with specialization in Computer Science
 Bulacan State University
 
